@@ -1,8 +1,7 @@
-# Modul-7-Bag-1-dan-2
 1.[$connect = mysqli_connect($host,$uname,$pass,$db);]
 2.-Install xampp terlebih dahulu
 -Jalankan apache dan MySQL
--Buka browser anda lalu ketikkan http://localhost/phpmyadmin/
+-Buka browser anda lalu ketikkan http://localhost/phpmyadmin
 -Pada menu Database, silahkan masukkan nama database yang diinginkan, kemudian klik Create
 -Setelah create akan muncul halaman untuk membuat tabel.Masukkan nama tabel dan jumlah kolom yang diinginkan, lalu klik GO
 -Kemudian akan lanjut ke halaman untuk membuat kolom database.Masukkan nama kolom kemudian menentukan type data dan panjang karakter.Tentukan primary key juga
